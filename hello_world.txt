@@ -1,0 +1,1 @@
+Hello, this is me setting up a git repository for the ODIN PROJECT.
